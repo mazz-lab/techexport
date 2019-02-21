@@ -1,4 +1,4 @@
-package com.techexpert.datastructure;
+package com.techexpert.javacollection;
 
 public class Hashmap {
 
